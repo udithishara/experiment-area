@@ -37,6 +37,13 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+### Useful links
+
+- [Fix single page routing issue](https://github.com/rafrex/spa-github-pages)
+- [Deploy create-react-app project to Github Pages](https://medium.com/@_mariacheline/deploy-create-react-app-project-to-github-pages-2eb6deda5b89)
+- [Initial issue](https://medium.com/@Dragonza/react-router-problem-with-gh-pages-c93a5e243819)
+
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
