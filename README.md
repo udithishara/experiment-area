@@ -12,6 +12,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
+### `yarn deploy`
+
+To deploy to gh-pages
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
@@ -42,7 +46,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 - [Fix single page routing issue](https://github.com/rafrex/spa-github-pages)
 - [Deploy create-react-app project to Github Pages](https://medium.com/@_mariacheline/deploy-create-react-app-project-to-github-pages-2eb6deda5b89)
 - [Initial issue](https://medium.com/@Dragonza/react-router-problem-with-gh-pages-c93a5e243819)
-
+- [GitHub Pages and Single-Page Apps](https://evansalter.com/blog/github-pages-and-single-page-apps/)
+- [Choices](https://time2hack.com/2017/11/ways-to-host-single-page-application-spa-static-site-for-free/)
 
 ## Learn More
 
